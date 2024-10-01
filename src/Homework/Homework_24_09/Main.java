@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package Homework.Homework_24_09;
 
 public class Main {
     public static void main(String[] args) {
